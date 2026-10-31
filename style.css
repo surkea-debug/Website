@@ -357,6 +357,7 @@ color: var(--accent-peach);
     font-size: 1.3rem;
     font-weight: 800;
     margin-bottom: 20px;
+    color: var(--accent-peach);
 }
 
 .footer-socials {
