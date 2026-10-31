@@ -354,9 +354,9 @@ color: var(--accent-peach);
 }
 
 .email-address {
-    font-size: 1.3rem;
+    font-size: 0.9rem;
     font-weight: 800;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
 }
 
 .footer-socials {
